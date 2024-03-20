@@ -18,9 +18,9 @@ class Home extends StatelessWidget {
             Container(
               height: 40,
               width: 40,
-              // child: ClipRect(
-              //   child: Image.asset(''),
-              //   ),
+              child: ClipRect(
+                child: Image.asset(''),
+                ),
               )
             ]),
       ),
